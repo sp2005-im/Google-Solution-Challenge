@@ -1,4 +1,4 @@
-# Google-Solution-Challenge//
+# Google-Solution-Challengehttps:<br />
 Hackathon Organized by Hack2skill. <br />
 Working on the Problem Statement of Accelerating Drug Discovery by leveraging Generative AI. <br />
 Participants: <br />
