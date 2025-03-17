@@ -1,6 +1,6 @@
 #Sri Rama Jayam
 #Running the FAISS_RAG_1.py
-from FAISS_RAG_1 import FinancialAssistant
+from RAG_Model import FinancialAssistant
 import os
 from dotenv import load_dotenv 
 
