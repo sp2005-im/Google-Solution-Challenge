@@ -6,3 +6,5 @@ Srihari Prasad - 2nd Year Undergrad Student, Department of Mechanical Engineerin
 Kaeshav Siddarthan RM- 2nd Year Undergrad Student, Department of Naval Architecture and Ocean Engineering, IIT Madras, Chennai<br />
 Arjun A A R - 2nd Year Undergrad Student, Department of Naval Architecture and Ocean Engineering, IIT Madras, Chennai<br />
 Lavlin Jaison - 2nd Year Undergrad Student, Department of Mechanical Engineering, IIT Madras, Chennai.
+
+The RAG pipeline for the code written in FIN_RAG/Document-Retrieval is as follows:
